@@ -1,0 +1,5 @@
+{
+  "name": "王子名称搜索工具",
+  "description": "一个用于模糊搜索世界各地王子名称的工具，支持实时过滤和清空功能。",
+  "requestFramePermissions": []
+}
